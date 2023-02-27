@@ -1,5 +1,5 @@
 public class OperadoresLogicos {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         boolean b1 = true;
         boolean b2 = false;
         boolean b3 = true;
