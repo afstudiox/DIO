@@ -31,8 +31,5 @@ public class Exercicio02 {
             System.out.println("Consoantes: " + consoantes);
         }
 
-
-
-
     }
 }
