@@ -1,18 +1,22 @@
-## Getting Started
+# 💭 EXERCÍCIOS ARRAYS
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📝 ARRAYS UNIDIMENSIONAIS
 
-## Folder Structure
+🔹Ordem Inversa: Faça um Programa que leia um vetor de 5 números inteiros e mostre-os na ordem inversa.
 
-The workspace contains two folders by default, where:
+🔹Consoantes: Faça um Programa que leia um vetor de 6 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+🔹Números Aleatórios: Faça um Programa que leia 20 números inteiros aleatórios (entre 0 e 100) armazene-os num vetor. Ao final, mostre os números e seus sucessores.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+🔗 [Lista de Exercícios Arrays Unidimensionais](https://wiki.python.org.br/ExerciciosListas)  - [Possíveis soluções](https://github.com/cami-la/listaDeExerciciosPythonBrasil/tree/master/exerciciosListas)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📝 ARRAYS MULTIDIMENSIONAIS
 
-## Dependency Management
+🔹Array Multidimensional: Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o menor número da matriz e a sua posição(linha, coluna).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+🔗 [Lista de Exercícios Arrays Multidimensionais](https://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-20?from_action=save)
+
+#
+
+>Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/).
